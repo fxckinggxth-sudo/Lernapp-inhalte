@@ -1,0 +1,31 @@
+{
+  "id": "mein-thema",
+  "titel": "Mein neues Thema",
+  "version": 1,
+  "karten": [
+    {
+      "kategorie": "Kapitel 1",
+      "gruppe": "begriffe",
+      "frage": "Frage oder Begriff",
+      "antwort": "Kurze Antwort",
+      "hinweis": "Optionaler Hinweis, steht unter der Frage",
+      "erklaerung": "Optionaler Text, der nach der Antwort angezeigt wird"
+    },
+    {
+      "kategorie": "Kapitel 1",
+      "gruppe": "vokabeln",
+      "frage": "Hund",
+      "antwort": "dog",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Englisch?",
+      "prompt_rueck": "Was heißt das auf Deutsch?"
+    },
+    {
+      "kategorie": "Kapitel 2",
+      "gruppe": "saetze",
+      "tippen": false,
+      "frage": "Frage mit langer Antwort?",
+      "antwort": "Eine ganze Antwort in einem Satz. Mit tippen=false gibt es die Frage nur als Multiple Choice."
+    }
+  ]
+}

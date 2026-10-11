@@ -1,0 +1,10 @@
+{
+  "themen": [
+    {
+      "id": "anatomie",
+      "titel": "Anatomie",
+      "beschreibung": "Skelett Latein ↔ Deutsch, Schmerzarten, Sensoren, Propriozeption",
+      "datei": "themen/anatomie.json"
+    }
+  ]
+}

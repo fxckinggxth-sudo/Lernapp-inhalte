@@ -1,0 +1,363 @@
+{
+  "id": "anatomie",
+  "titel": "Anatomie",
+  "version": 1,
+  "karten": [
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Columna vertebralis",
+      "antwort": "Wirbelsäule",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Scapula",
+      "antwort": "Schulterblatt",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Humerus",
+      "antwort": "Oberarmknochen",
+      "hinweis": "Teil der oberen Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Maxilla",
+      "antwort": "Oberkiefer",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Mandibula",
+      "antwort": "Unterkiefer",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Tibia",
+      "antwort": "Schienbein",
+      "hinweis": "Teil der unteren Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Cranium",
+      "antwort": "Schädel",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Os ilium",
+      "antwort": "Darmbein",
+      "hinweis": "Teil des Pelvis",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Cingulum membri superioris",
+      "antwort": "Schultergürtel",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Femur",
+      "antwort": "Oberschenkelknochen",
+      "hinweis": "Teil der unteren Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Vertebra cervicalis",
+      "antwort": "Halswirbel",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Ulna",
+      "antwort": "Elle",
+      "hinweis": "Teil der oberen Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Os sacrum",
+      "antwort": "Kreuzbein",
+      "hinweis": "Teil des Pelvis",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Ossa carpi",
+      "antwort": "Handwurzelknochen",
+      "hinweis": "Teil der oberen Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Sternum",
+      "antwort": "Brustbein",
+      "hinweis": "Teil vom Thorax",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Radius",
+      "antwort": "Speiche",
+      "hinweis": "Teil der oberen Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Patella",
+      "antwort": "Kniescheibe",
+      "hinweis": "Teil der unteren Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Costae",
+      "antwort": "Rippen",
+      "hinweis": "Teil vom Thorax",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Orbita",
+      "antwort": "Augenhöhle",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Thorax",
+      "antwort": "Brustkorb",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Clavicula",
+      "antwort": "Schlüsselbein",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Os ischii",
+      "antwort": "Sitzbein",
+      "hinweis": "Teil des Pelvis",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Os pubis",
+      "antwort": "Schambein",
+      "hinweis": "Teil des Pelvis",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Cingulum membri inferioris",
+      "antwort": "Beckengürtel",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Fibula",
+      "antwort": "Wadenbein",
+      "hinweis": "Teil der unteren Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Ossa tarsi",
+      "antwort": "Fußwurzelknochen",
+      "hinweis": "Teil der unteren Extremitäten",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Arcus costalis",
+      "antwort": "Rippenbogen",
+      "hinweis": "Teil vom Thorax",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Skelett (Latein ↔ Deutsch)",
+      "gruppe": "skelett",
+      "frage": "Pelvis",
+      "antwort": "Becken",
+      "umkehrbar": true,
+      "prompt": "Was heißt das auf Deutsch?",
+      "prompt_rueck": "Wie heißt das lateinisch?"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "schmerz",
+      "prompt": "Welche Schmerzart liegt vor?",
+      "frage": "Schnitt in den Finger",
+      "antwort": "Somatischer Schmerz",
+      "erklaerung": "Somatischer Schmerz – Schmerz, der durch Verletzung von Haut, Muskeln oder Knochen entsteht, meist gut lokalisierbar"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "schmerz",
+      "prompt": "Welche Schmerzart liegt vor?",
+      "frage": "Brennender Schmerz nach Nervenverletzung",
+      "antwort": "Neurogener Schmerz",
+      "erklaerung": "Neurogener Schmerz – Schmerz, der durch Schädigung von Nerven entsteht, meist brennend oder elektrisierend"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "schmerz",
+      "prompt": "Welche Schmerzart liegt vor?",
+      "frage": "Schmerz nach Trennung ohne körperliche Ursache",
+      "antwort": "Psychogener Schmerz",
+      "erklaerung": "Psychogener Schmerz – Schmerz, der durch psychische Belastung entsteht, ohne erkennbare körperliche Ursache"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "schmerz",
+      "prompt": "Welche Schmerzart liegt vor?",
+      "frage": "Starke Bauchschmerzen bei Blinddarmentzündung",
+      "antwort": "Viszeraler Schmerz",
+      "erklaerung": "Viszeraler Schmerz – Schmerz, der von inneren Organen ausgeht, oft schlecht lokalisierbar und krampfartig"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "sensor",
+      "frage": "Welche Sensoren nehmen starke Druckreize und Vibrationen wahr?",
+      "antwort": "Pacinische Körperchen",
+      "erklaerung": "Pacinische Körperchen – sie befinden sich tief in der Haut und reagieren auf starke Druckreize und Vibrationen"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "sensor",
+      "frage": "Welche Sensoren ermöglichen die Wahrnehmung feiner Berührungen?",
+      "antwort": "Merkel-Zellen",
+      "erklaerung": "Merkel-Zellen – sie sind besonders in den Fingerspitzen konzentriert und ermöglichen die Wahrnehmung feiner Berührungen"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "sensor",
+      "frage": "Welche Sensoren sind für Schmerz und Juckreiz verantwortlich?",
+      "antwort": "Freie Nervenendigungen",
+      "erklaerung": "Freie Nervenendigungen – sie nehmen Schmerzen, Juckreiz und Temperatur wahr"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "sensor",
+      "frage": "Welche Sensoren sind für die Temperaturerkennung zuständig?",
+      "antwort": "Thermorezeptoren",
+      "erklaerung": "Thermorezeptoren – sie reagieren auf Kälte und Wärme und sind als freie Nervenendigungen in der Haut verteilt"
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "propri",
+      "tippen": false,
+      "frage": "Welche Funktion haben Muskelspindeln?",
+      "antwort": "Sie geben Rückmeldung über die Dehnung und Längenänderung eines Muskels und sind wichtig für die Kontrolle der Muskelspannung."
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "propri",
+      "tippen": false,
+      "frage": "Welche Aufgabe erfüllen Gelenkrezeptoren?",
+      "antwort": "Sie erfassen die Stellung und Bewegung eines Gelenks und sind wichtig für die Feinabstimmung von Bewegung."
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "propri",
+      "tippen": false,
+      "frage": "Was messen Golgi-Sehnenorgane und welche Schutzfunktion haben sie?",
+      "antwort": "Sie messen die Spannung in der Sehne und schützen vor Überlastung, indem sie einen Reflex auslösen."
+    },
+    {
+      "kategorie": "Schmerz, Sensoren, Propriozeption",
+      "gruppe": "propri",
+      "tippen": false,
+      "frage": "Wie kann die Propriozeption klinisch geprüft werden?",
+      "antwort": "Zum Beispiel durch den Finger-Nasen-Versuch, bei dem gezielte Bewegungen ohne visuelle Kontrolle ausgeführt werden."
+    }
+  ]
+}
