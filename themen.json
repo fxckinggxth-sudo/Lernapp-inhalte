@@ -12,7 +12,7 @@
   "themen": [
     {
       "id": "pflege-hygiene",
-      "titel": "Hygiene",
+      "titel": "Hygiene und Infektionsschutz",
       "beschreibung": "Hygiene und Infektionsschutz",
       "datei": "themen/hygiene.json"
     }
@@ -22,7 +22,7 @@
   "themen": [
     {
       "id": "pflege-notfall",
-      "titel": "Notfall",
+      "titel": "Notfälle und Ersteinschätzung",
       "beschreibung": "Notfälle und Ersteinschätzung",
       "datei": "themen/notfall.json"
     }
@@ -32,7 +32,7 @@
   "themen": [
     {
       "id": "pflege-medikamente",
-      "titel": "Medis",
+      "titel": "Medikamente und Arzneimittelsicherheit",
       "beschreibung": "Medikamente und Arzneimittelsicherheit",
       "datei": "themen/medikamentenlehre.json"
     }
@@ -42,7 +42,7 @@
   "themen": [
     {
       "id": "pflege-vitalzeichen",
-      "titel": "Vitalzeichen",
+      "titel": "Blutdruck, Puls, Atmung und Sauerstoffsättigung",
       "beschreibung": "Blutdruck, Puls, Atmung und Sauerstoffsättigung",
       "datei": "themen/vitalzeichen.json"
     }
@@ -52,7 +52,7 @@
   "themen": [
     {
       "id": "pflege-kommunikation",
-      "titel": "Pflegekommunikation",
+      "titel": "PKommunikation und Beziehungsgestaltung",
       "beschreibung": "Kommunikation und Beziehungsgestaltung",
       "datei": "themen/pflegekommunikation.json"
     }
@@ -62,7 +62,7 @@
   "themen": [
     {
       "id": "pflege-pflegeprozess",
-      "titel": "Pflegeprozess",
+      "titel": "Pflegeplanung und Dokumentation",
       "beschreibung": "Pflegeplanung und Dokumentation",
       "datei": "themen/pflegeprozess.json"
     }
