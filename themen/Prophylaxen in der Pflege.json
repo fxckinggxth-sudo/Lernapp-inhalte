@@ -1,0 +1,56 @@
+{
+"id": "pflege-prophylaxen",
+"titel": "Prophylaxen in der Pflege",
+"kategorien": [
+{
+"id": "dekubitus_thrombose",
+"titel": "Dekubitus- & Thromboseprophylaxe",
+"fragen": [
+{
+"id": "proph_01",
+"frage": "Welche Hautareale sind bei Rückenlage besonders gefährdet für einen Dekubitus?",
+"optionen": [
+"Os sacrum (Kreuzbein)",
+"Fersen (Calcaneus)",
+"Trochanter major (Großer Rollhügel / Hüfte bei Seitenlage)",
+"Hinterkopf (Occiput)",
+"Bauchhaut"
+],
+"richtigeAntworten": [0, 1, 2, 3],
+"erklaerung": "Gefährdet sind vor allem druckbelastete Körperstellen über knöchernen Vorsprüngen ohne dicke Fettgewebsschicht."
+},
+{
+"id": "proph_02",
+"frage": "Welche Faktoren bilden die sogenannte 'Virchow-Trias' zur Entstehung einer Thrombose?",
+"optionen": [
+"Verlangsamter Blutfluss (Stase)",
+"Gefäßwandderivation / Gefäßwandnetzschäden",
+"Erhöhte Gerinnungsneigung des Blutes (Hyperkoagulatität)",
+"Niedriger Blutzuckerspiegel",
+"Mangelernährung"
+],
+"richtigeAntworten": [0, 1, 2],
+"erklaerung": "Die Virchow-Trias beschreibt die drei Hauptursachen von Thrombosen: veränderte Blutströmung, Gefäßwandveränderungen und veränderte Blutzusammensetzung."
+}
+]
+},
+{
+"id": "sturz_kontraktur",
+"titel": "Sturz- & Kontrakturenprophylaxe",
+"fragen": [
+{
+"id": "proph_03",
+"frage": "Welche Maﬂnahmen dienen der effektiven Kontrakturenprophylaxe?",
+"optionen": [
+"Regelmäßige passive und aktive Bewegungsübungen der Gelenke",
+"Physiologische Spitzfußprophylaxe (z. B. durch rechtwinklige Fußstütze)",
+"Frühzeitige Mobilisation des Patienten",
+"Dauerhafte Ruhigstellung des betroffenen Gliedmaßes"
+],
+"richtigeAntworten": [0, 1, 2],
+"erklaerung": "Kontrakturen (Gelenkversteifungen) entstehen durch Immobilität. Sie werden durch gezielte Bewegung und Funktionslagerung verhindert."
+}
+]
+}
+]
+}

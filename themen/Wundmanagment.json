@@ -1,0 +1,56 @@
+{
+"id": "pflege-wundmanagement",
+"titel": "Wundmanagement & Wundversorgung",
+"kategorien": [
+{
+"id": "wundheilung_arten",
+"titel": "Wundarten & Phasen der Wundheilung",
+"fragen": [
+{
+"id": "wund_01",
+"frage": "Welche Phasen gehören zur physiologischen sekundären Wundheilung in der korrekten Reihenfolge?",
+"optionen": [
+"Exsudationsphase (Reinigungsphase)",
+"Granulationsphase (Proliferationsphase)",
+"Epithelisierungsphase (Regenerationsphase)",
+"Entzündungshemmungsphase",
+"Nekrotisierungsphase"
+],
+"richtigeAntworten": [0, 1, 2],
+"erklaerung": "Die Wundheilung läuft in drei Hauptphasen ab: Exsudation (Reinigung), Granulation (Gewebeaufbau) und Epithelisierung (Wundverschluss)."
+},
+{
+"id": "wund_02",
+"frage": "Welche Merkmale kennzeichnen eine chronische Wunde?",
+"optionen": [
+"Wunde zeigt trotz fachgerechter Therapie nach 4 bis 8 Wochen keine Heilungstendenz",
+"Tritt häufig bei Grunderkrankungen wie pAVK, CVI oder Diabetes mellitus auf",
+"Heilt in der Regel innerhalb von 3 bis 5 Tagen spurlos ab",
+"Liegt vor, wenn Gewebe primär vernäht wurde"
+],
+"richtigeAntworten": [0, 1],
+"erklaerung": "Chronische Wunden (z. B. Ulcus cruris, Dekubitus) heilen aufgrund zugrundeliegender Gefäß- oder Stoffwechselerkrankungen verzögert ab."
+}
+]
+},
+{
+"id": "wundbeurteilung_urgo",
+"titel": "Wundbeobachtung & URGO / TIME-Schema",
+"fragen": [
+{
+"id": "wund_03",
+"frage": "Welche Kriterien müssen bei einer professionellen Wundbeurteilung beschrieben werden?",
+"optionen": [
+"Wundlokalisation und Wundgröße (Länge, Breite, Tiefe)",
+"Wundgrund und Gewebeart (z. B. Granulation, Fibrin, Nekrose)",
+"Exsudatmenge und Exsudatgeruch",
+"Wundrand und Wundumgebung",
+"Einkommen des Patienten"
+],
+"richtigeAntworten": [0, 1, 2, 3],
+"erklaerung": "Die systematische Wundbeschreibung erfasst Lage, Maße, Grund, Exsudat, Wundrand und die umgebende Haut."
+}
+]
+}
+]
+}

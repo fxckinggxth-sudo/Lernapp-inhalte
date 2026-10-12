@@ -1,0 +1,55 @@
+{
+"id": "pflege-ernaehrung",
+"titel": "Ernährung & Flüssigkeitshaushalt",
+"kategorien": [
+{
+"id": "mangelernaehrung_dehydratation",
+"titel": "Mangelernährung & Dehydratation",
+"fragen": [
+{
+"id": "ern_01",
+"frage": "Welche Symptome weisen auf eine Dehydratation (Flüssigkeitsmangel) bei älteren Menschen hin?",
+"optionen": [
+"Stehende Hautfalten (verminderter Hautturgor)",
+"Trockene Mundschleimhaut und Zunge",
+"Verwirrtheit und Verhaltensänderungen",
+"Dunkler, konzentrierter Urin / Oligurie",
+"Stark verlangsamter Puls (Bradykardie)"
+],
+"richtigeAntworten": [0, 1, 2, 3],
+"erklaerung": "Dehydratation führt zu trockenem Gewebe, Stehenbleiben von Hautfalten, Verwirrtheit sowie dunklem, wenigem Urin. Der Puls ist meist eher erhöht (Tachykardie)."
+},
+{
+"id": "ern_02",
+"frage": "Ab welchem Body-Mass-Index (BMI) spricht man bei Erwachsenen laut WHO von Untergewicht?",
+"optionen": [
+"< 18,5 kg/m²",
+"< 22,0 kg/m²",
+"< 25,0 kg/m²",
+"< 30,0 kg/m²"
+],
+"richtigeAntworten": [0],
+"erklaerung": "Ein BMI unter 18,5 kg/m² definiert nach WHO Untergewicht. Bei Senioren gilt oft schon ein BMI unter 20–22 als Risiko für Mangelernährung."
+}
+]
+},
+{
+"id": "dysphagie_sonden",
+"titel": "Dysphagie & Sondenernährung",
+"fragen": [
+{
+"id": "ern_03",
+"frage": "Welche Maﬂnahme ist bei der Pflege von Patienten mit einer Dysphagie (Schluckstörung) WICHTIG?",
+"optionen": [
+"Aufrechte Sitzposition während und mindestens 30 Min. nach der Mahlzeit",
+"Eindicken von Flüssigkeiten bei Aspirationsgefahr",
+"Essen in ruhiger Atmosphäre ohne Ablenkung anbieten",
+"Patienten flach hinlegen, um das Schlucken zu erleichtern"
+],
+"richtigeAntworten": [0, 1, 2],
+"erklaerung": "Die aufrechte Haltung verhindert Aspirationen (Verschlucken in die Atemwege). Flaches Liegen erhöht das Aspirations- und Pneumonierisiko drastisch."
+}
+]
+}
+]
+}

@@ -1,0 +1,57 @@
+{
+"id": "pflege-palliative-care",
+"titel": "Palliative Care & Sterbebegleitung",
+"kategorien": [
+{
+"id": "grundsaetze_palliative",
+"titel": "Grundsätze & Symptomkontrolle",
+"fragen": [
+{
+"id": "pall_01",
+"frage": "Was ist das Hauptziel von Palliative Care laut Definition der WHO?",
+"optionen": [
+"Erreichung der bestmöglichen Lebensqualität für Patienten und deren Angehörige",
+"Linderung von Schmerzen und anderen belastenden Symptomen",
+"Heilung der zugrundeliegenden lebensbedrohlichen Erkrankung",
+"Lebensverlängerung um jeden Preis unter Einsatz aller medizinischen Mittel"
+],
+"richtigeAntworten": [0, 1],
+"erklaerung": "Palliative Care konzentriert sich nicht auf Heilung oder Lebensverlängerung um jeden Preis, sondern auf die Beherrschung von Symptomen und die Lebensqualität."
+},
+{
+"id": "pall_02",
+"frage": "Welche Anzeichen deuten bei Schwerstkranken auf die unmittelbare Sterbephase hin?",
+"optionen": [
+"Cheyne-Stokes-Atmung oder unregelmäßige Schnappatmung",
+"Marmoriertes Hautbild (besonders an den Extremitäten / Knie)",
+"Facies hippocratica (eingesunkene Gesichtszüge, spitze Nase)",
+"Verringertes Schmerzempfinden und extrem hoher Blutdruck",
+"Rasselatmung durch Ansammlung von Sekret im Rachenraum"
+],
+"richtigeAntworten": [0, 1, 2, 4],
+"erklaerung": "Die Sterbephase ist gekennzeichnet durch verändertes Atemmuster, reduzierte peripherie Durchblutung (Marmorierung), Facies hippocratica und Rasselatmung."
+}
+]
+},
+{
+"id": "trauer_trauerphasen",
+"titel": "Trauerphasen nach Kübler-Ross",
+"fragen": [
+{
+"id": "pall_03",
+"frage": "Welche Phasen gehören zum Fünf-Phasen-Modell der Sterbebewältigung nach Elisabeth Kübler-Ross?",
+"optionen": [
+"Nicht-Wahrhaben-Wollen (Verdrängung)",
+"Zorn / Wut",
+"Verhandeln",
+"Depression (Leere / Trauer)",
+"Zustimmung / Akzeptanz",
+"Vergessen"
+],
+"richtigeAntworten": [0, 1, 2, 3, 4],
+"erklaerung": "Kübler-Ross beschreibt die 5 Phasen: Nicht-Wahrhaben-Wollen, Zorn, Verhandeln, Depression und Akzeptanz."
+}
+]
+}
+]
+}

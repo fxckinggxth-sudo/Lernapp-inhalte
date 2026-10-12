@@ -1,0 +1,55 @@
+{
+"id": "pflege-recht",
+"titel": "Rechtliche Grundlagen in der Pflege",
+"kategorien": [
+{
+"id": "haftung_delegation",
+"titel": "Haftung & Delegation",
+"fragen": [
+{
+"id": "recht_01",
+"frage": "Was bedeutet 'Durchführungsverantwortung' für eine Pflegefachkraft?",
+"optionen": [
+"Die Pflicht, eine delegierte Aufgabe fachgerecht und ordnungsgemäß auszuführen",
+"Die Entscheidung, ob die Behandlung medizinisch indiziert ist",
+"Die alleinige finanzielle Haftung des Krankenhauses",
+"Die Pflicht, die Diagnose des Arztes zu hinterfragen"
+],
+"richtigeAntworten": [0],
+"erklaerung": "Die Pflegefachkraft trägt bei delegierten ärztlichen Tätigkeiten die Durchführungsverantwortung (fachgerechte Ausführung), während der Arzt die Anordnungsverantwortung behält."
+},
+{
+"id": "recht_02",
+"frage": "Welche Voraussetzungen müssen für eine rechtmäßige Fixierung / freiheitsentziehende Maßnahme (FEM) vorliegen?",
+"optionen": [
+"Ein gerichtlicher Beschluss (Betreuungsgericht) bei dauerhafter Maßnahme",
+"Akute Selbst- oder Fremdgefährdung (Gefahr im Verzug)",
+"Einwilligung des einwilligungsfähigen Patienten oder seines gesetzlichen Vertreters",
+"Wunsch der Pflegekräfte bei hohem Arbeitsaufkommen"
+],
+"richtigeAntworten": [0, 1, 2],
+"erklaerung": "Freiheitsentziehende Maßnahmen greifen in Grundrechte ein und benötigen eine rechtliche Grundlage (Einwilligung, Notstand oder gerichtlichen Beschluss). Arbeitsbelastung ist kein zulässiger Grund."
+}
+]
+},
+{
+"id": "schweigepflicht_dsgvo",
+"titel": "Schweigepflicht & Datenschutz",
+"fragen": [
+{
+"id": "recht_03",
+"frage": "Wer unterliegt nach § 203 StGB der medizinischen Schweigepflicht?",
+"optionen": [
+"Ärzte und Ärztinnen",
+"Pflegefachpersonen",
+"Auszubildende in Pflegeberufen",
+"Verwaltungsangestellte im Krankenhaus",
+"Familienangehörige von Patienten"
+],
+"richtigeAntworten": [0, 1, 2, 3],
+"erklaerung": "Die berufliche Schweigepflicht gilt für alle im Gesundheitswesen tätigen Berufsgruppen sowie Auszubildende. Angehörige unterliegen nicht dem § 203 StGB, sind aber bezüglich der Privatsphäre des Patienten einzubinden."
+}
+]
+}
+]
+}
