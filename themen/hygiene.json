@@ -1,0 +1,157 @@
+{
+  "id": "pflege-hygiene",
+  "titel": "Hygiene und Infektionsschutz",
+  "version": 1,
+  "karten": [
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist das wichtigste Ziel der hygienischen Händedesinfektion?",
+      "antwort": "Die Übertragung von Krankheitserregern zu reduzieren",
+      "optionen": [
+        "Die Übertragung von Krankheitserregern zu reduzieren",
+        "Die Haut vollständig zu sterilisieren",
+        "Handschuhe überflüssig zu machen",
+        "Alle sichtbaren Verschmutzungen mechanisch zu entfernen"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Die hygienische Händedesinfektion reduziert die Übertragung von Krankheitserregern."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Wann ist eine Händedesinfektion besonders wichtig?",
+      "antwort": "Vor aseptischen Tätigkeiten",
+      "optionen": [
+        "Nur nach dem Dienst",
+        "Vor aseptischen Tätigkeiten",
+        "Nur wenn die Hände sichtbar schmutzig sind",
+        "Ausschließlich nach dem Ausziehen der Dienstkleidung"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Vor aseptischen Tätigkeiten ist die Händedesinfektion besonders wichtig."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet aseptisches Arbeiten?",
+      "antwort": "Kontamination möglichst zu verhindern",
+      "optionen": [
+        "Arbeiten ohne Dokumentation",
+        "Arbeiten ausschließlich mit sterilen Handschuhen",
+        "Kontamination möglichst zu verhindern",
+        "Jede Tätigkeit möglichst schnell durchzuführen"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Aseptisches Arbeiten soll verhindern, dass Keime in einen empfindlichen Bereich gelangen."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist eine nosokomiale Infektion?",
+      "antwort": "Eine Infektion, die im Zusammenhang mit einer medizinischen Versorgung erworben wird",
+      "optionen": [
+        "Eine Infektion, die im Zusammenhang mit einer medizinischen Versorgung erworben wird",
+        "Eine Infektion, die ausschließlich vererbt wird",
+        "Eine allergische Reaktion auf Desinfektionsmittel",
+        "Eine Infektion, die immer bereits bei Geburt vorliegt"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Der Begriff beschreibt eine Infektion im Zusammenhang mit einer medizinischen oder pflegerischen Versorgung."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Ersetzen Einmalhandschuhe die Händedesinfektion?",
+      "antwort": "Nein, die Händedesinfektion bleibt je nach Situation erforderlich",
+      "optionen": [
+        "Ja, immer",
+        "Ja, wenn sie puderfrei sind",
+        "Nur bei kurzen Tätigkeiten",
+        "Nein, die Händedesinfektion bleibt je nach Situation erforderlich"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Handschuhe ersetzen die Händedesinfektion nicht."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Wie werden gebrauchte Kanülen sicher entsorgt?",
+      "antwort": "In einem stichfesten Abwurfbehälter",
+      "optionen": [
+        "In einem normalen Papierkorb",
+        "In einem stichfesten Abwurfbehälter",
+        "In einem offenen Kunststoffbeutel",
+        "Zusammen mit der normalen Wäsche"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Kanülen gehören unmittelbar in einen dafür vorgesehenen stichfesten Abwurfbehälter."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist bei sichtbar verschmutzten Händen grundsätzlich angezeigt?",
+      "antwort": "Hände mit Wasser und Seife waschen",
+      "optionen": [
+        "Nur Handschuhe anziehen",
+        "Hände mit Wasser und Seife waschen",
+        "Die Hände mit einem trockenen Tuch abreiben",
+        "Keine Maßnahme, wenn keine Wunde sichtbar ist"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Sichtbare Verschmutzungen werden durch Waschen entfernt; weitere Händehygiene richtet sich nach der Situation."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum wird Schutzkleidung verwendet?",
+      "antwort": "Um Kleidung und Haut vor Kontamination zu schützen",
+      "optionen": [
+        "Damit keine Pflegedokumentation nötig ist",
+        "Um jede Infektion sicher auszuschließen",
+        "Um Kleidung und Haut vor Kontamination zu schützen",
+        "Damit Händehygiene entfällt"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Schutzkleidung vermindert die Kontamination von Kleidung und Haut."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was beschreibt ein Übertragungsweg bei Infektionen?",
+      "antwort": "Den Weg, auf dem Erreger weitergegeben werden",
+      "optionen": [
+        "Die Dauer einer Medikamentengabe",
+        "Den Weg, auf dem Erreger weitergegeben werden",
+        "Die Menge der aufgenommenen Nahrung",
+        "Den Verlauf einer Wundheilung"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Übertragungswege beschreiben, wie Erreger von einer Quelle zu einer anderen Person gelangen."
+    },
+    {
+      "kategorie": "Hygiene und Infektionsschutz",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sollte bei einer Nadelstichverletzung geschehen?",
+      "antwort": "Sofort die vorgesehenen Erste-Hilfe- und Meldeabläufe einleiten",
+      "optionen": [
+        "Die Verletzung ignorieren, wenn sie klein ist",
+        "Die Stelle mit einem Tuch abdecken und schweigen",
+        "Erst am nächsten Arbeitstag berichten",
+        "Sofort die vorgesehenen Erste-Hilfe- und Meldeabläufe einleiten"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Nach einer Nadelstichverletzung sind die betrieblichen Sofortmaßnahmen und Meldewege einzuhalten."
+    }
+  ]
+}

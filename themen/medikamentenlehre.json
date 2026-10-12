@@ -1,0 +1,157 @@
+{
+  "id": "pflege-medikamente",
+  "titel": "Medikamentenlehre und Arzneimittelsicherheit",
+  "version": 1,
+  "karten": [
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sollte vor der Medikamentengabe geprüft werden?",
+      "antwort": "Richtige Person, Arzneimittel, Dosis, Zeitpunkt und Applikationsweg gemäß Standard",
+      "optionen": [
+        "Nur die Farbe der Verpackung",
+        "Nur, ob die Person wach ist",
+        "Nur die Anzahl der Tabletten im Schrank",
+        "Richtige Person, Arzneimittel, Dosis, Zeitpunkt und Applikationsweg gemäß Standard"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Die Sicherheitsregeln der Medikamentengabe helfen, Verwechslungen und Fehler zu vermeiden."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist bei einer unklaren ärztlichen Verordnung richtig?",
+      "antwort": "Nicht raten, sondern vor der Gabe fachlich klären",
+      "optionen": [
+        "Nicht raten, sondern vor der Gabe fachlich klären",
+        "Die Dosis selbstständig verdoppeln",
+        "Die Verordnung ignorieren und nichts dokumentieren",
+        "Die Entscheidung einer nicht zuständigen Person überlassen"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Unklare Verordnungen müssen vor der Durchführung geklärt werden."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet eine orale Medikamentengabe?",
+      "antwort": "Gabe über den Mund",
+      "optionen": [
+        "Gabe über die Haut",
+        "Gabe über den Mund",
+        "Gabe in einen Muskel",
+        "Gabe in eine Vene"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Oral bedeutet, dass ein Arzneimittel über den Mund aufgenommen wird."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum dürfen Retardtabletten nicht ohne Prüfung zerkleinert werden?",
+      "antwort": "Die verzögerte Wirkstofffreisetzung kann verändert werden",
+      "optionen": [
+        "Sie verlieren dadurch immer ihre Farbe",
+        "Sie werden dadurch steril",
+        "Die verzögerte Wirkstofffreisetzung kann verändert werden",
+        "Sie können danach nicht mehr dokumentiert werden"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Zerkleinern kann die Freisetzung verändern; Fachinformation und Vorgaben sind zu beachten."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sollte bei einer vermuteten Nebenwirkung geschehen?",
+      "antwort": "Symptome einschätzen, dokumentieren und zuständige Fachpersonen informieren",
+      "optionen": [
+        "Die Beobachtung verschweigen",
+        "Die nächste Dosis immer eigenständig erhöhen",
+        "Alle Medikamente dauerhaft absetzen, ohne Rücksprache",
+        "Symptome einschätzen, dokumentieren und zuständige Fachpersonen informieren"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Bei möglichen Nebenwirkungen sind klinische Einschätzung, Dokumentation und Weitergabe wichtig."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist bei der Lagerung von Medikamenten wichtig?",
+      "antwort": "Herstellerangaben und einrichtungsinterne Vorgaben beachten",
+      "optionen": [
+        "Herstellerangaben und einrichtungsinterne Vorgaben beachten",
+        "Alle Medikamente immer im Sonnenlicht lagern",
+        "Temperaturvorgaben grundsätzlich ignorieren",
+        "Medikamente ohne Kennzeichnung umfüllen"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Lagerbedingungen richten sich nach Fachinformation und internen Vorgaben."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet eine Kontraindikation?",
+      "antwort": "Ein Umstand, bei dem eine Behandlung nicht oder nur unter bestimmten Bedingungen angewendet werden soll",
+      "optionen": [
+        "Ein sicherer Hinweis auf eine höhere Dosis",
+        "Ein Umstand, bei dem eine Behandlung nicht oder nur unter bestimmten Bedingungen angewendet werden soll",
+        "Eine Methode zur Blutdruckmessung",
+        "Eine Form der Pflegedokumentation"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Kontraindikationen weisen auf Gründe gegen eine bestimmte Behandlung hin."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sollte bei einer Medikamentenverweigerung geschehen?",
+      "antwort": "Gründe erfragen, aufklären, respektvoll handeln und nach Vorgaben dokumentieren/weiterleiten",
+      "optionen": [
+        "Die Person heimlich zur Einnahme bringen",
+        "Die Tablette ohne Information in Essen mischen",
+        "Gründe erfragen, aufklären, respektvoll handeln und nach Vorgaben dokumentieren/weiterleiten",
+        "Die Verweigerung nicht beachten"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Selbstbestimmung beachten und die Situation fachgerecht klären und dokumentieren."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum ist die Identitätskontrolle vor der Gabe wichtig?",
+      "antwort": "Sie hilft, eine Verwechslung von Personen zu verhindern",
+      "optionen": [
+        "Sie ersetzt die Kontrolle des Arzneimittels",
+        "Sie ist nur bei Kindern erforderlich",
+        "Sie ist nur bei Injektionen nötig",
+        "Sie hilft, eine Verwechslung von Personen zu verhindern"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Die sichere Zuordnung zum richtigen Menschen ist ein wesentlicher Sicherheitsaspekt."
+    },
+    {
+      "kategorie": "Medikamentenlehre und Arzneimittelsicherheit",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist bei einer ausgelassenen Dosis zu tun?",
+      "antwort": "Nach geltender Anweisung und fachlicher Rücksprache handeln, nicht eigenmächtig doppelt geben",
+      "optionen": [
+        "Nach geltender Anweisung und fachlicher Rücksprache handeln, nicht eigenmächtig doppelt geben",
+        "Immer die doppelte Menge bei der nächsten Gabe geben",
+        "Die ausgelassene Dosis verschweigen",
+        "Die Dosis durch ein anderes Arzneimittel ersetzen"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Das weitere Vorgehen hängt vom Arzneimittel und der konkreten Anordnung ab."
+    }
+  ]
+}

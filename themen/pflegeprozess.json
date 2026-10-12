@@ -1,0 +1,157 @@
+{
+  "id": "pflege-pflegeprozess",
+  "titel": "Pflegeprozess und Dokumentation",
+  "version": 1,
+  "karten": [
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist ein Ziel des Pflegeprozesses?",
+      "antwort": "Pflege systematisch zu planen, umzusetzen und auszuwerten",
+      "optionen": [
+        "Pflege ohne individuelle Einschätzung durchzuführen",
+        "Pflege systematisch zu planen, umzusetzen und auszuwerten",
+        "Nur ärztliche Anordnungen zu sammeln",
+        "Dokumentation vollständig zu vermeiden"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Der Pflegeprozess strukturiert die individuelle und nachvollziehbare Pflege."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was geschieht bei der Informationssammlung?",
+      "antwort": "Es werden pflegerelevante Informationen zur Person erhoben",
+      "optionen": [
+        "Es werden pflegerelevante Informationen zur Person erhoben",
+        "Es werden ausschließlich Medikamente gezählt",
+        "Es werden Pflegeziele bereits als erreicht eingetragen",
+        "Es werden nur Angehörige befragt, nie die pflegebedürftige Person"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Die Informationssammlung berücksichtigt die Person, ihre Situation, Bedürfnisse und Ressourcen."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sind Ressourcen in der Pflege?",
+      "antwort": "Fähigkeiten, Stärken und Unterstützungsmöglichkeiten der Person",
+      "optionen": [
+        "Ausschließlich finanzielle Mittel der Einrichtung",
+        "Nur ärztliche Diagnosen",
+        "Fähigkeiten, Stärken und Unterstützungsmöglichkeiten der Person",
+        "Alle Tätigkeiten, die Pflegekräfte selbst übernehmen"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Ressourcen helfen, Selbstständigkeit und Teilhabe zu fördern."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was beschreibt ein Pflegeziel?",
+      "antwort": "Einen angestrebten Zustand oder eine gewünschte Veränderung",
+      "optionen": [
+        "Eine beliebige Tätigkeit ohne Bezug zur Person",
+        "Eine bereits erfolgte Dokumentation",
+        "Eine medizinische Diagnose allein",
+        "Einen angestrebten Zustand oder eine gewünschte Veränderung"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Pflegeziele sollten möglichst konkret, realistisch und überprüfbar sein."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was gehört typischerweise in eine Pflegeplanung?",
+      "antwort": "Pflegeprobleme, Ressourcen, Ziele und Maßnahmen",
+      "optionen": [
+        "Nur der Name der Pflegekraft",
+        "Pflegeprobleme, Ressourcen, Ziele und Maßnahmen",
+        "Ausschließlich die Besuchszeiten",
+        "Nur die Medikamentenliste ohne Pflegebezug"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Die Pflegeplanung verbindet Einschätzung, Ziele und geplante Maßnahmen."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet Evaluation im Pflegeprozess?",
+      "antwort": "Die Überprüfung, ob Ziele erreicht wurden und Maßnahmen passen",
+      "optionen": [
+        "Die Überprüfung, ob Ziele erreicht wurden und Maßnahmen passen",
+        "Die erstmalige Aufnahme der Person",
+        "Die automatische Verlängerung aller Maßnahmen",
+        "Das Löschen alter Dokumentation ohne Prüfung"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Bei der Evaluation werden Ergebnisse geprüft und Anpassungen abgeleitet."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum soll Pflegedokumentation sachlich und nachvollziehbar sein?",
+      "antwort": "Damit Informationen korrekt weitergegeben und Maßnahmen nachvollzogen werden können",
+      "optionen": [
+        "Damit persönliche Meinungen als Fakten gelten",
+        "Damit Übergaben entfallen",
+        "Damit Informationen korrekt weitergegeben und Maßnahmen nachvollzogen werden können",
+        "Damit nur positive Beobachtungen festgehalten werden"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Dokumentation soll relevant, korrekt, nachvollziehbar und verständlich sein."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet aktivierende Pflege?",
+      "antwort": "Selbstständigkeit und vorhandene Fähigkeiten zu fördern",
+      "optionen": [
+        "Alle Tätigkeiten grundsätzlich für die Person zu übernehmen",
+        "Selbstständigkeit und vorhandene Fähigkeiten zu fördern",
+        "Übungen unabhängig vom Zustand zu erzwingen",
+        "Hilfsmittel grundsätzlich nicht zu verwenden"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Aktivierende Pflege bezieht Fähigkeiten der Person ein und unterstützt Selbstständigkeit."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum ist die Beteiligung der pflegebedürftigen Person wichtig?",
+      "antwort": "Sie unterstützt Selbstbestimmung und individuelle Pflege",
+      "optionen": [
+        "Sie ist nur bei jungen Menschen relevant",
+        "Sie ersetzt alle fachlichen Einschätzungen",
+        "Sie ist nur für die Dokumentation nötig",
+        "Sie unterstützt Selbstbestimmung und individuelle Pflege"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Die Wünsche und Ziele der Person sollen in die Pflege einbezogen werden."
+    },
+    {
+      "kategorie": "Pflegeprozess und Dokumentation",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sollte bei einer Veränderung des Pflegezustands geschehen?",
+      "antwort": "Beobachtung und relevante Maßnahmen zeitnah dokumentieren und weitergeben",
+      "optionen": [
+        "Beobachtung und relevante Maßnahmen zeitnah dokumentieren und weitergeben",
+        "Die Veränderung bis zum Monatsende zurückhalten",
+        "Die Pflegeplanung nie anpassen",
+        "Nur mündlich einer beliebigen Person davon erzählen"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Veränderungen müssen angemessen eingeschätzt, dokumentiert und im Team kommuniziert werden."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "pflege-kommunikation",
+  "titel": "Kommunikation und Beziehungsgestaltung",
+  "version": 1,
+  "karten": [
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet aktives Zuhören?",
+      "antwort": "Aufmerksam zuhören, nachfragen und das Verstandene rückmelden",
+      "optionen": [
+        "Während des Gesprächs bereits die Antwort vorbereiten und unterbrechen",
+        "Aufmerksam zuhören, nachfragen und das Verstandene rückmelden",
+        "Nur auf die Körpersprache achten",
+        "Das Gespräch möglichst schnell beenden"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Aktives Zuhören signalisiert Aufmerksamkeit und hilft, Bedürfnisse besser zu verstehen."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Wie sollte eine Pflegekraft bei einer besorgten Person reagieren?",
+      "antwort": "Ruhig zuhören, Gefühle ernst nehmen und verständlich informieren",
+      "optionen": [
+        "Die Sorge sofort als unbegründet abtun",
+        "Das Thema wechseln, ohne zuzuhören",
+        "Ruhig zuhören, Gefühle ernst nehmen und verständlich informieren",
+        "Versprechen geben, die nicht eingehalten werden können"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Empathie und klare Informationen unterstützen eine vertrauensvolle Beziehung."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist ein Beispiel für eine offene Frage?",
+      "antwort": "Wie geht es Ihnen heute, und was beschäftigt Sie besonders?",
+      "optionen": [
+        "Haben Sie Schmerzen, ja oder nein?",
+        "Ist Ihnen kalt?",
+        "Haben Sie heute gegessen?",
+        "Wie geht es Ihnen heute, und was beschäftigt Sie besonders?"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Offene Fragen ermöglichen ausführlichere Antworten."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum ist einfache, verständliche Sprache wichtig?",
+      "antwort": "Sie erleichtert das Verstehen und die Beteiligung",
+      "optionen": [
+        "Sie erleichtert das Verstehen und die Beteiligung",
+        "Sie macht Rückfragen unnötig",
+        "Sie ist nur bei Kindern sinnvoll",
+        "Sie ersetzt die Einwilligung"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Verständliche Kommunikation unterstützt informierte Entscheidungen und Zusammenarbeit."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet Schweigepflicht im Pflegekontext?",
+      "antwort": "Vertrauliche Informationen dürfen nur im zulässigen Rahmen weitergegeben werden",
+      "optionen": [
+        "Informationen dürfen immer im privaten Umfeld erzählt werden",
+        "Vertrauliche Informationen dürfen nur im zulässigen Rahmen weitergegeben werden",
+        "Alle Informationen müssen öffentlich dokumentiert werden",
+        "Angehörige haben automatisch Anspruch auf alle Informationen"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Personenbezogene Informationen sind vertraulich und dürfen nur rechtmäßig weitergegeben werden."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Wie kann Kommunikation mit einer Person mit Hörbeeinträchtigung erleichtert werden?",
+      "antwort": "Blickkontakt herstellen, deutlich sprechen und Verständnis prüfen",
+      "optionen": [
+        "Von hinten und sehr schnell sprechen",
+        "Beim Sprechen den Mund verdecken",
+        "Blickkontakt herstellen, deutlich sprechen und Verständnis prüfen",
+        "Nur mit Angehörigen sprechen"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Gute Beleuchtung, Blickkontakt und klare Sprache können die Verständigung unterstützen."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist bei einem Konflikt mit einer pflegebedürftigen Person hilfreich?",
+      "antwort": "Ruhig bleiben, die Sichtweisen klären und respektvoll nach Lösungen suchen",
+      "optionen": [
+        "Vorwürfe machen",
+        "Die Person ignorieren",
+        "Sofort mit Konsequenzen drohen",
+        "Ruhig bleiben, die Sichtweisen klären und respektvoll nach Lösungen suchen"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Deeskalation und respektvolle Kommunikation helfen, Konflikte zu bearbeiten."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet nonverbale Kommunikation?",
+      "antwort": "Kommunikation durch Mimik, Gestik, Haltung und Blickkontakt",
+      "optionen": [
+        "Kommunikation ausschließlich durch Briefe",
+        "Kommunikation durch Mimik, Gestik, Haltung und Blickkontakt",
+        "Kommunikation nur über Fachbegriffe",
+        "Kommunikation durch Medikamentenpläne"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Körpersprache und Gesichtsausdruck vermitteln ebenfalls Informationen."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum sollte die Pflegekraft Verständnis überprüfen lassen?",
+      "antwort": "Damit Unklarheiten erkannt und Informationen angepasst werden können",
+      "optionen": [
+        "Damit Unklarheiten erkannt und Informationen angepasst werden können",
+        "Damit die Person nicht mehr fragen darf",
+        "Damit die Übergabe entfällt",
+        "Damit alle Menschen dieselbe Entscheidung treffen"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Rückfragen und Rückmeldungen helfen, Missverständnisse zu vermeiden."
+    },
+    {
+      "kategorie": "Kommunikation und Beziehungsgestaltung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bedeutet personenzentrierte Kommunikation?",
+      "antwort": "Wünsche, Bedürfnisse, Fähigkeiten und Perspektive der Person berücksichtigen",
+      "optionen": [
+        "Alle Personen mit denselben Standardsätzen ansprechen",
+        "Nur über die Person statt mit ihr sprechen",
+        "Wünsche, Bedürfnisse, Fähigkeiten und Perspektive der Person berücksichtigen",
+        "Gespräche ausschließlich auf Aufgaben beschränken"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Personenzentrierte Kommunikation richtet sich an der individuellen Person aus."
+    }
+  ]
+}

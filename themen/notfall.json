@@ -1,0 +1,157 @@
+{
+  "id": "pflege-notfall",
+  "titel": "Notfälle und Ersteinschätzung",
+  "version": 1,
+  "karten": [
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Welche Notrufnummer gilt in Deutschland für den Rettungsdienst?",
+      "antwort": "112",
+      "optionen": [
+        "110",
+        "112",
+        "115",
+        "116117"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Bei lebensbedrohlichen Notfällen ist in Deutschland die 112 zuständig."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Eine Person reagiert nicht und atmet nicht normal. Was ist zu tun?",
+      "antwort": "Notruf/Notfallalarm auslösen und mit Wiederbelebungsmaßnahmen beginnen",
+      "optionen": [
+        "Sie allein lassen und später erneut prüfen",
+        "Nur Wasser anbieten",
+        "Notruf/Notfallalarm auslösen und mit Wiederbelebungsmaßnahmen beginnen",
+        "Die Person aufstehen lassen"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Hilfe alarmieren und unverzüglich mit den empfohlenen Wiederbelebungsmaßnahmen beginnen."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Welches kann ein plötzliches Schlaganfallzeichen sein?",
+      "antwort": "Gesichtslähmung oder Sprachstörung",
+      "optionen": [
+        "Gesichtslähmung oder Sprachstörung",
+        "Langsam wachsende Fingernägel",
+        "Leichter Durst nach dem Essen",
+        "Juckreiz nach einem Mückenstich"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Plötzliche Gesichtsschwäche, Armschwäche oder Sprachstörung sind Warnzeichen."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sollte bei Verdacht auf Schlaganfall geschehen?",
+      "antwort": "Sofort den Rettungsdienst alarmieren und den Symptombeginn festhalten",
+      "optionen": [
+        "Erst am Folgetag einen Termin vereinbaren",
+        "Die Person selbstständig nach Hause schicken",
+        "Nichts tun, wenn die Symptome nachlassen",
+        "Sofort den Rettungsdienst alarmieren und den Symptombeginn festhalten"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Zeit ist entscheidend; auch vorübergehende Symptome müssen ernst genommen werden."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist bei einer starken äußeren Blutung eine wichtige Sofortmaßnahme?",
+      "antwort": "Direkten Druck auf die Wunde ausüben und Hilfe organisieren",
+      "optionen": [
+        "Die Wunde wiederholt ohne Schutz untersuchen",
+        "Direkten Druck auf die Wunde ausüben und Hilfe organisieren",
+        "Die Person zum Gehen auffordern",
+        "Die Blutung zunächst nicht beachten"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Direkter Druck ist eine wichtige Maßnahme, während Hilfe organisiert wird."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sollte man während eines Krampfanfalls vermeiden?",
+      "antwort": "Gegenstände in den Mund stecken oder die Person festhalten",
+      "optionen": [
+        "Gefahren in der Umgebung entfernen",
+        "Die Dauer beobachten",
+        "Gegenstände in den Mund stecken oder die Person festhalten",
+        "Nach dem Anfall Atmung und Bewusstsein beurteilen"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Die Person nicht festhalten und nichts in den Mund stecken; Verletzungen verhindern."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist ein mögliches Zeichen einer schweren allergischen Reaktion?",
+      "antwort": "Atemnot und Kreislaufprobleme nach einem möglichen Auslöser",
+      "optionen": [
+        "Leichtes Hungergefühl",
+        "Trockene Hände allein",
+        "Ein einzelner blauer Fleck",
+        "Atemnot und Kreislaufprobleme nach einem möglichen Auslöser"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Atemnot, Schwellungen und Kreislaufprobleme können auf eine lebensbedrohliche Anaphylaxie hinweisen."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum ist Eigenschutz bei einem Notfall wichtig?",
+      "antwort": "Damit Helfende nicht selbst gefährdet werden",
+      "optionen": [
+        "Damit Helfende nicht selbst gefährdet werden",
+        "Damit der Notruf später erfolgt",
+        "Damit keine weitere Hilfe kommen muss",
+        "Damit Beobachtungen nicht dokumentiert werden"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Eigenschutz verhindert zusätzliche Betroffene und ermöglicht wirksame Hilfe."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist bei einer bewusstlosen, normal atmenden Person grundsätzlich wichtig?",
+      "antwort": "Atmung überwachen, Hilfe holen und sofern angemessen stabile Seitenlage anwenden",
+      "optionen": [
+        "Sofort Essen anbieten",
+        "Atmung überwachen, Hilfe holen und sofern angemessen stabile Seitenlage anwenden",
+        "Die Person allein lassen",
+        "Die Person zum Trinken auffordern"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Die Atemwege müssen frei bleiben; Notfallhilfe und fortlaufende Überwachung sind wichtig."
+    },
+    {
+      "kategorie": "Notfälle und Ersteinschätzung",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was sollte nach einem Notfall dokumentiert werden?",
+      "antwort": "Beobachtungen, Verlauf, Maßnahmen und Reaktionen",
+      "optionen": [
+        "Nur die Namen der anwesenden Personen",
+        "Nur die Uhrzeit des Dienstendes",
+        "Beobachtungen, Verlauf, Maßnahmen und Reaktionen",
+        "Ausschließlich Vermutungen über die Ursache"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Die Dokumentation hält relevante Fakten und die eingeleiteten Maßnahmen nachvollziehbar fest."
+    }
+  ]
+}

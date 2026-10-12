@@ -1,0 +1,157 @@
+{
+  "id": "pflege-vitalzeichen",
+  "titel": "Vitalzeichen",
+  "version": 1,
+  "karten": [
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Welche Werte gehören typischerweise zu den Vitalzeichen?",
+      "antwort": "Temperatur, Puls, Blutdruck und Atmung",
+      "optionen": [
+        "Körpergröße, Schuhgröße, Haarfarbe und Gewicht",
+        "Temperatur, Puls, Blutdruck und Atmung",
+        "Blutzucker, Körpergröße, Sehschärfe und Gewicht",
+        "Appetit, Schlafdauer, Stimmung und Haarfarbe"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Je nach Situation werden auch Sauerstoffsättigung und weitere Werte erhoben."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was beschreibt der systolische Blutdruck?",
+      "antwort": "Den Druck während der Kontraktion des Herzens",
+      "optionen": [
+        "Den Druck während der Kontraktion des Herzens",
+        "Den Druck während der Entspannungsphase des Herzens",
+        "Die Atemfrequenz pro Minute",
+        "Die Sauerstoffsättigung des Blutes"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Der systolische Wert ist der höhere Blutdruckwert und entsteht während der Kontraktion des Herzens."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bezeichnet man als Tachykardie?",
+      "antwort": "Eine für die Situation zu hohe Herzfrequenz",
+      "optionen": [
+        "Eine ungewöhnlich niedrige Körpertemperatur",
+        "Eine zu langsame Atmung",
+        "Eine für die Situation zu hohe Herzfrequenz",
+        "Einen zu niedrigen Blutzucker"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Tachykardie bezeichnet eine erhöhte Herzfrequenz; die Einordnung hängt unter anderem vom Alter und Kontext ab."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was bezeichnet man als Bradykardie?",
+      "antwort": "Eine für die Situation zu niedrige Herzfrequenz",
+      "optionen": [
+        "Eine erhöhte Atemfrequenz",
+        "Eine für die Situation zu niedrige Herzfrequenz",
+        "Einen erhöhten Blutdruck",
+        "Eine erhöhte Körpertemperatur"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Bradykardie bezeichnet eine verlangsamte Herzfrequenz."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was misst die Pulsoxymetrie?",
+      "antwort": "Die periphere Sauerstoffsättigung und meist die Pulsfrequenz",
+      "optionen": [
+        "Die Körpertemperatur",
+        "Den Blutzuckerspiegel",
+        "Die Urinmenge",
+        "Die periphere Sauerstoffsättigung und meist die Pulsfrequenz"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Die Pulsoxymetrie schätzt die Sauerstoffsättigung nichtinvasiv."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was gehört zur Atembeobachtung?",
+      "antwort": "Atemfrequenz, Atemtiefe und Atemrhythmus",
+      "optionen": [
+        "Nur die Hautfarbe",
+        "Nur die Körpergröße",
+        "Atemfrequenz, Atemtiefe und Atemrhythmus",
+        "Ausschließlich die Trinkmenge"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Auch Atemgeräusche, Atemarbeit und weitere Auffälligkeiten können relevant sein."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum sollte der Blutdruck möglichst standardisiert gemessen werden?",
+      "antwort": "Damit Messwerte besser vergleichbar sind",
+      "optionen": [
+        "Damit Messwerte besser vergleichbar sind",
+        "Damit der Blutdruck immer niedriger ausfällt",
+        "Damit keine Dokumentation nötig ist",
+        "Damit die Pulsfrequenz nicht erfasst werden muss"
+      ],
+      "richtige_antwort": 0,
+      "erklaerung": "Eine standardisierte Messung verbessert die Vergleichbarkeit und Zuverlässigkeit."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was ist bei einem auffälligen Vitalzeichen sinnvoll?",
+      "antwort": "Die Person einschätzen, bei Bedarf kontrollieren und nach Standard weiterleiten",
+      "optionen": [
+        "Den Wert grundsätzlich ignorieren",
+        "Den Wert ohne Kontext als Diagnose betrachten",
+        "Die Person nicht weiter beobachten",
+        "Die Person einschätzen, bei Bedarf kontrollieren und nach Standard weiterleiten"
+      ],
+      "richtige_antwort": 3,
+      "erklaerung": "Der Messwert muss im Zusammenhang mit Symptomen und Situation beurteilt werden."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Warum werden Vitalzeichen dokumentiert?",
+      "antwort": "Um Veränderungen und Reaktionen nachvollziehen zu können",
+      "optionen": [
+        "Nur zur Erfüllung einer Formalität",
+        "Um Veränderungen und Reaktionen nachvollziehen zu können",
+        "Damit Übergaben entfallen",
+        "Damit alle weiteren Beobachtungen unnötig sind"
+      ],
+      "richtige_antwort": 1,
+      "erklaerung": "Die Dokumentation unterstützt Verlaufskontrolle und Informationsweitergabe."
+    },
+    {
+      "kategorie": "Vitalzeichen",
+      "gruppe": "multiple_choice",
+      "tippen": false,
+      "frage": "Was kann einen Pulsmesswert beeinflussen?",
+      "antwort": "Belastung, Stress, Medikamente und Erkrankungen",
+      "optionen": [
+        "Nur die Augenfarbe",
+        "Nur die Körpergröße",
+        "Belastung, Stress, Medikamente und Erkrankungen",
+        "Ausschließlich die Tageszeit"
+      ],
+      "richtige_antwort": 2,
+      "erklaerung": "Der Puls kann sich durch viele physiologische und krankheitsbedingte Faktoren verändern."
+    }
+  ]
+}
