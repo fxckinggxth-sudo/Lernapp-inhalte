@@ -5,61 +5,37 @@
       "titel": "Anatomie",
       "beschreibung": "Skelett Latein ↔ Deutsch, Schmerzarten, Sensoren, Propriozeption",
       "datei": "themen/anatomie.json"
-    }
-  ]
-}
-{
-  "themen": [
+    },
     {
       "id": "pflege-hygiene",
       "titel": "Hygiene und Infektionsschutz",
       "beschreibung": "Hygiene und Infektionsschutz",
       "datei": "themen/hygiene.json"
-    }
-  ]
-}
-{
-  "themen": [
+    },
     {
       "id": "pflege-notfall",
       "titel": "Notfälle und Ersteinschätzung",
       "beschreibung": "Notfälle und Ersteinschätzung",
       "datei": "themen/notfall.json"
-    }
-  ]
-}
-{
-  "themen": [
+    },
     {
       "id": "pflege-medikamente",
       "titel": "Medikamente und Arzneimittelsicherheit",
       "beschreibung": "Medikamente und Arzneimittelsicherheit",
       "datei": "themen/medikamentenlehre.json"
-    }
-  ]
-}
-{
-  "themen": [
+    },
     {
       "id": "pflege-vitalzeichen",
       "titel": "Blutdruck, Puls, Atmung und Sauerstoffsättigung",
       "beschreibung": "Blutdruck, Puls, Atmung und Sauerstoffsättigung",
       "datei": "themen/vitalzeichen.json"
-    }
-  ]
-}
-{
-  "themen": [
+    },
     {
       "id": "pflege-kommunikation",
-      "titel": "PKommunikation und Beziehungsgestaltung",
+      "titel": "Kommunikation und Beziehungsgestaltung",
       "beschreibung": "Kommunikation und Beziehungsgestaltung",
       "datei": "themen/pflegekommunikation.json"
-    }
-  ]
-}
-{
-  "themen": [
+    },
     {
       "id": "pflege-pflegeprozess",
       "titel": "Pflegeplanung und Dokumentation",
