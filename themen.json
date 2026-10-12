@@ -11,7 +11,7 @@
 {
   "themen": [
     {
-      "id": "hygiene",
+      "id": "pflege-hygiene",
       "titel": "Hygiene",
       "beschreibung": "Hygiene und Infektionsschutz",
       "datei": "themen/hygiene.json"
@@ -21,7 +21,7 @@
 {
   "themen": [
     {
-      "id": "notfall",
+      "id": "pflege-notfall",
       "titel": "Notfall",
       "beschreibung": "Notfälle und Ersteinschätzung",
       "datei": "themen/notfall.json"
@@ -31,7 +31,7 @@
 {
   "themen": [
     {
-      "id": "medis",
+      "id": "pflege-medikamente",
       "titel": "Medis",
       "beschreibung": "Medikamente und Arzneimittelsicherheit",
       "datei": "themen/medikamentenlehre.json"
@@ -41,7 +41,7 @@
 {
   "themen": [
     {
-      "id": "vitalzeichen",
+      "id": "pflege-vitalzeichen",
       "titel": "Vitalzeichen",
       "beschreibung": "Blutdruck, Puls, Atmung und Sauerstoffsättigung",
       "datei": "themen/vitalzeichen.json"
@@ -51,7 +51,7 @@
 {
   "themen": [
     {
-      "id": "pflegekommunikation",
+      "id": "pflege-kommunikation",
       "titel": "Pflegekommunikation",
       "beschreibung": "Kommunikation und Beziehungsgestaltung",
       "datei": "themen/pflegekommunikation.json"
@@ -61,7 +61,7 @@
 {
   "themen": [
     {
-      "id": "pflegeprozess",
+      "id": "pflege-pflegeprozess",
       "titel": "Pflegeprozess",
       "beschreibung": "Pflegeplanung und Dokumentation",
       "datei": "themen/pflegeprozess.json"
