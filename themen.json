@@ -8,3 +8,63 @@
     }
   ]
 }
+{
+  "themen": [
+    {
+      "id": "hygiene",
+      "titel": "Hygiene",
+      "beschreibung": "Hygiene und Infektionsschutz",
+      "datei": "themen/hygiene.json"
+    }
+  ]
+}
+{
+  "themen": [
+    {
+      "id": "notfall",
+      "titel": "Notfall",
+      "beschreibung": "Notfälle und Ersteinschätzung",
+      "datei": "themen/notfall.json"
+    }
+  ]
+}
+{
+  "themen": [
+    {
+      "id": "medis",
+      "titel": "Medis",
+      "beschreibung": "Medikamente und Arzneimittelsicherheit",
+      "datei": "themen/medikamentenlehre.json"
+    }
+  ]
+}
+{
+  "themen": [
+    {
+      "id": "vitalzeichen",
+      "titel": "Vitalzeichen",
+      "beschreibung": "Blutdruck, Puls, Atmung und Sauerstoffsättigung",
+      "datei": "themen/vitalzeichen.json"
+    }
+  ]
+}
+{
+  "themen": [
+    {
+      "id": "pflegekommunikation",
+      "titel": "Pflegekommunikation",
+      "beschreibung": "Kommunikation und Beziehungsgestaltung",
+      "datei": "themen/pflegekommunikation.json"
+    }
+  ]
+}
+{
+  "themen": [
+    {
+      "id": "pflegeprozess",
+      "titel": "Pflegeprozess",
+      "beschreibung": "Pflegeplanung und Dokumentation",
+      "datei": "themen/pflegeprozess.json"
+    }
+  ]
+}
