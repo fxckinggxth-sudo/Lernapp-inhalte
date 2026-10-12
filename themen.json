@@ -7,40 +7,70 @@
       "datei": "themen/anatomie.json"
     },
     {
-      "id": "pflege-hygiene",
-      "titel": "Hygiene und Infektionsschutz",
-      "beschreibung": "Hygiene und Infektionsschutz",
-      "datei": "themen/hygiene.json"
-    },
-    {
       "id": "pflege-notfall",
       "titel": "Notfälle und Ersteinschätzung",
-      "beschreibung": "Notfälle und Ersteinschätzung",
+      "beschreibung": "Notfälle, Ersteinschätzung, Notruf, Bewusstlosigkeit, Reanimation",
       "datei": "themen/notfall.json"
-    },
-    {
-      "id": "pflege-medikamente",
-      "titel": "Medikamente und Arzneimittelsicherheit",
-      "beschreibung": "Medikamente und Arzneimittelsicherheit",
-      "datei": "themen/medikamentenlehre.json"
-    },
-    {
-      "id": "pflege-vitalzeichen",
-      "titel": "Blutdruck, Puls, Atmung und Sauerstoffsättigung",
-      "beschreibung": "Blutdruck, Puls, Atmung und Sauerstoffsättigung",
-      "datei": "themen/vitalzeichen.json"
     },
     {
       "id": "pflege-kommunikation",
       "titel": "Kommunikation und Beziehungsgestaltung",
-      "beschreibung": "Kommunikation und Beziehungsgestaltung",
+      "beschreibung": "Kommunikation, Beziehungsgestaltung, aktives Zuhören, Schweigepflicht",
       "datei": "themen/pflegekommunikation.json"
     },
     {
       "id": "pflege-pflegeprozess",
-      "titel": "Pflegeplanung und Dokumentation",
-      "beschreibung": "Pflegeplanung und Dokumentation",
+      "titel": "Pflegeprozess und Dokumentation",
+      "beschreibung": "Pflegeprozess, Informationssammlung, Pflegeplanung, Ressourcen, Evaluation",
       "datei": "themen/pflegeprozess.json"
+    },
+    {
+      "id": "pflege-vitalzeichen",
+      "titel": "Vitalzeichen",
+      "beschreibung": "Vitalzeichen, Puls, Blutdruck, Atembeobachtung, Pulsoxymetrie",
+      "datei": "themen/vitalzeichen.json"
+    },
+    {
+      "id": "pflege-hygiene",
+      "titel": "Hygiene und Infektionsschutz",
+      "beschreibung": "Hygiene, Infektionsschutz, Händedesinfektion, aseptisches Arbeiten",
+      "datei": "themen/hygiene.json"
+    },
+    {
+      "id": "pflege-medikamente",
+      "titel": "Medikamentenlehre und Arzneimittelsicherheit",
+      "beschreibung": "Medikamentenlehre, Arzneimittelsicherheit, 6-R-Regel, Darreichungsformen",
+      "datei": "themen/medikamentenlehre.json"
+    },
+    {
+      "id": "pflege-wundmanagement",
+      "titel": "Wundmanagement & Wundversorgung",
+      "beschreibung": "Wundarten, Wundheilungsphasen, URGO / TIME-Schema, Wundbeurteilung",
+      "datei": "themen/wundmanagement.json"
+    },
+    {
+      "id": "pflege-prophylaxen",
+      "titel": "Prophylaxen in der Pflege",
+      "beschreibung": "Dekubitus, Thrombose, Virchow-Trias, Sturz- und Kontrakturenprophylaxe",
+      "datei": "themen/prophylaxen.json"
+    },
+    {
+      "id": "pflege-recht",
+      "titel": "Rechtliche Grundlagen in der Pflege",
+      "beschreibung": "Haftung, Delegation, freiheitsentziehende Maßnahmen, Schweigepflicht",
+      "datei": "themen/pflegerecht.json"
+    },
+    {
+      "id": "pflege-palliative-care",
+      "titel": "Palliative Care & Sterbebegleitung",
+      "beschreibung": "Palliative Care, Symptomkontrolle, Sterbephase, Trauerphasen nach Kübler-Ross",
+      "datei": "themen/palliative.json"
+    },
+    {
+      "id": "pflege-ernaehrung",
+      "titel": "Ernährung & Flüssigkeitshaushalt",
+      "beschreibung": "Mangelernährung, Dehydratation, BMI, Dysphagie, Sondenernährung",
+      "datei": "themen/ernaehrung.json"
     }
   ]
 }
