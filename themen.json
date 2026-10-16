@@ -1,4 +1,39 @@
 {
+  "jobs": [
+    {
+      "id": "pflegefachkraft",
+      "titel": "Ausbildung zur Pflegefachkraft",
+      "beschreibung": "Generalistische Pflegeausbildung: Anatomie, Notfall, Hygiene, Recht, Palliative Care u.v.m.",
+      "themenIds": [
+        "anatomie",
+        "pflege-notfall",
+        "pflege-kommunikation",
+        "pflege-pflegeprozess",
+        "pflege-vitalzeichen",
+        "pflege-hygiene",
+        "pflege-medikamente",
+        "pflege-wundmanagement",
+        "pflege-prophylaxen",
+        "pflege-recht",
+        "pflege-palliative-care",
+        "pflege-ernaehrung"
+      ]
+    },
+    {
+      "id": "fuehrerschein",
+      "titel": "Führerschein",
+      "beschreibung": "Theorieprüfung für alle Führerscheinklassen von Mofa über Roller und Autoführerschein bis LKW/Bus",
+      "themenIds": [
+        "fs-mofa",
+        "fs-am",
+        "fs-a1",
+        "fs-b",
+        "fs-c",
+        "fs-d",
+        "fs-t"
+      ]
+    }
+  ],
   "themen": [
     {
       "id": "anatomie",
@@ -71,6 +106,48 @@
       "titel": "Ernährung & Flüssigkeitshaushalt",
       "beschreibung": "Mangelernährung, Dehydratation, BMI, Dysphagie, Sondenernährung",
       "datei": "themen/ernaehrung.json"
+    },
+    {
+      "id": "fs-mofa",
+      "titel": "Mofa-Prüfbescheinigung",
+      "beschreibung": "Regeln für Mofas bis 25 km/h, Mindestalter 15 Jahre",
+      "datei": "themen/fs_mofa.json"
+    },
+    {
+      "id": "fs-am",
+      "titel": "Klasse AM (Kleinkrafträder)",
+      "beschreibung": "Roller und Mopeds bis 45 km/h, ab 15/16 Jahren",
+      "datei": "themen/fs_am.json"
+    },
+    {
+      "id": "fs-a1",
+      "titel": "Klasse A1 (Leichtkrafträder)",
+      "beschreibung": "Krafträder bis 125 ccm und 11 kW",
+      "datei": "themen/fs_a1.json"
+    },
+    {
+      "id": "fs-b",
+      "titel": "Autoführerschein B1 / B",
+      "beschreibung": "Kraftfahrzeuge bis 3,5t zGG, Vorfahrt, Verkehrszeichen, Autobahn",
+      "datei": "themen/fs_b.json"
+    },
+    {
+      "id": "fs-c",
+      "titel": "Klasse C / CE (LKW)",
+      "beschreibung": "Schwere Nutzfahrzeuge über 3,5t zGG mit Anhänger",
+      "datei": "themen/fs_c.json"
+    },
+    {
+      "id": "fs-d",
+      "titel": "Klasse D / DE (Bus)",
+      "beschreibung": "Kraftomnibusse zur Personenbeförderung",
+      "datei": "themen/fs_d.json"
+    },
+    {
+      "id": "fs-t",
+      "titel": "Klasse L / T (Traktor)",
+      "beschreibung": "Land- und forstwirtschaftliche Zugmaschinen",
+      "datei": "themen/fs_t.json"
     }
   ]
 }
