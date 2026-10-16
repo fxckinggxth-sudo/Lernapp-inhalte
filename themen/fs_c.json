@@ -1,0 +1,87 @@
+{
+  "id": "fs-c",
+  "titel": "Klasse C / CE (LKW)",
+  "version": 2,
+  "karten": [
+    {
+      "kategorie": "Zulässige Gesamtmasse",
+      "gruppe": "c",
+      "frage": "Ab welcher zulässigen Gesamtmasse gilt die LKW-Klasse C?",
+      "antwort": "Über 3,5 Tonnen",
+      "hinweis": "Schwere Nutzfahrzeuge",
+      "erklaerung": "Klasse C ist für Kraftfahrzeuge über 3.500 kg zGG."
+    },
+    {
+      "kategorie": "Voraussetzungen",
+      "gruppe": "c",
+      "frage": "Mindestalter für Klasse C ohne Grundqualifikation",
+      "antwort": "21 Jahre",
+      "hinweis": "(Mit Ausbildung zum Berufskraftfahrer ab 18 Jahren)",
+      "erklaerung": "Reguläres Mindestalter für den LKW-Führerschein ist 21 Jahre."
+    },
+    {
+      "kategorie": "Technik",
+      "gruppe": "c",
+      "frage": "Gerät zur Aufzeichnung von Lenk- und Ruhezeiten im LKW",
+      "antwort": "Tachograph",
+      "hinweis": "EG-Kontrollgerät",
+      "erklaerung": "Überwacht die Lenk- und Arbeitszeiten von Berufskraftfahrern."
+    },
+    {
+      "kategorie": "Untersuchung",
+      "gruppe": "c",
+      "frage": "Erforderliche Untersuchung für den Erwerb von Klasse C",
+      "antwort": "Ärztliche und augenärztliche Untersuchung",
+      "hinweis": "Gesundheitscheck und Sehtest",
+      "erklaerung": "Nachweis von körperlicher Eignung und Sehvermögen."
+    },
+    {
+      "kategorie": "Anhänger",
+      "gruppe": "c",
+      "frage": "Welche Zusatzklasse berechtigt zum Führen von schweren LKW-Anhängern?",
+      "antwort": "Klasse CE",
+      "hinweis": "LKW mit schwerem Anhänger",
+      "erklaerung": "Klasse CE erlaubt Anhänger mit mehr als 750 kg zGG."
+    },
+    {
+      "kategorie": "Maße",
+      "gruppe": "c",
+      "frage": "Maximale Länge eines LKW mit Anhänger (Zug)",
+      "antwort": "18,75 Meter",
+      "hinweis": "Fahrzeugkombination",
+      "erklaerung": "Gesetzliches Längenlimit für Lastzüge."
+    },
+    {
+      "kategorie": "Geschwindigkeit",
+      "gruppe": "c",
+      "frage": "Höchstgeschwindigkeit für LKW über 3,5t auf Autobahnen in Deutschland",
+      "antwort": "80 km/h",
+      "hinweis": "Tempolimit für schwere LKW",
+      "erklaerung": "Gilt für LKW über 3,5 Tonnen zGG auf Autobahnen."
+    },
+    {
+      "kategorie": "Alkohol",
+      "gruppe": "c",
+      "frage": "Promillegrenze für gewerbliche LKW-Fahrer",
+      "antwort": "0,0 Promille",
+      "hinweis": "Null Toleranz im gewerblichen Verkehr",
+      "erklaerung": "Absolutes Alkoholverbot für Berufskraftfahrer."
+    },
+    {
+      "kategorie": "Prüfung",
+      "gruppe": "c",
+      "frage": "Wie oft müssen LKW zur Hauptuntersuchung (HU)?",
+      "antwort": "Jährlich",
+      "hinweis": "TÜV für Nutzfahrzeuge",
+      "erklaerung": "Schwere Nutzfahrzeuge müssen jedes Jahr zur HU."
+    },
+    {
+      "kategorie": "Ladung",
+      "gruppe": "c",
+      "frage": "Wer ist primär für die ordnungsgemäße Ladungssicherung verantwortlich?",
+      "antwort": "Fahrer und Halter",
+      "hinweis": "Form- und kraftschlüssig sichern",
+      "erklaerung": "Beide tragen die rechtliche Verantwortung für verkehrssichere Ladung."
+    }
+  ]
+}

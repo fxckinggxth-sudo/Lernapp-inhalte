@@ -1,0 +1,87 @@
+{
+  "id": "fs-am",
+  "titel": "Klasse AM (Kleinkrafträder)",
+  "version": 2,
+  "karten": [
+    {
+      "kategorie": "Technische Daten",
+      "gruppe": "am",
+      "frage": "Höchstgeschwindigkeit für Fahrzeuge der Klasse AM",
+      "antwort": "45 km/h",
+      "hinweis": "Roller und Mopeds",
+      "erklaerung": "Klasse AM umfasst Kleinkrafträder bis 45 km/h."
+    },
+    {
+      "kategorie": "Technische Daten",
+      "gruppe": "am",
+      "frage": "Maximaler Hubraum bei Verbrennungsmotoren (Klasse AM)",
+      "antwort": "50 ccm",
+      "hinweis": "Kubikzentimeter",
+      "erklaerung": "Hubraumbegrenzung liegt bei 50 ccm."
+    },
+    {
+      "kategorie": "Technische Daten",
+      "gruppe": "am",
+      "frage": "Maximale Nennleistung bei Elektroantrieb (Klasse AM)",
+      "antwort": "4 kW",
+      "hinweis": "Kilowatt",
+      "erklaerung": "Elektromotoren sind bis 4 kW zulässig."
+    },
+    {
+      "kategorie": "Voraussetzungen",
+      "gruppe": "am",
+      "frage": "Mindestalter für die Fahrerlaubnisklasse AM",
+      "antwort": "16 Jahre",
+      "hinweis": "(In einigen Bundesländern ab 15 Jahren)",
+      "erklaerung": "Reguläres Mindestalter ist 16 Jahre."
+    },
+    {
+      "kategorie": "Sicherheit",
+      "gruppe": "am",
+      "frage": "Helmpflicht für Fahrer von AM-Fahrzeugen",
+      "antwort": "Ja",
+      "hinweis": "Schutzhelm",
+      "erklaerung": "Es besteht gesetzliche Helmpflicht."
+    },
+    {
+      "kategorie": "Autobahn",
+      "gruppe": "am",
+      "frage": "Darf man mit einem AM-Roller auf die Autobahn?",
+      "antwort": "Verboten",
+      "hinweis": "Mindestgeschwindigkeit 60 km/h erforderlich",
+      "erklaerung": "Da AM nur 45 km/h fährt, ist die Autobahn tabu."
+    },
+    {
+      "kategorie": "Kraftfährstraße",
+      "gruppe": "am",
+      "frage": "Darf man mit Klasse AM auf Kraftfahrstraßen fahren?",
+      "antwort": "Nur wenn bauartbedingt schneller als 60 km/h",
+      "hinweis": "Normale AM-Roller nicht",
+      "erklaerung": "Kraftfahrstraßen, die wie Autobahnen ausgeschildert sind, erfordern 60 km/h Mindestgeschwindigkeit."
+    },
+    {
+      "kategorie": "Mitnahme",
+      "gruppe": "am",
+      "frage": "Ist die Mitnahme von Beifahrern mit Klasse AM erlaubt?",
+      "antwort": "Ja, wenn geeigneter Sitz vorhanden",
+      "hinweis": "Zweisitzige Ausführung",
+      "erklaerung": "Sofern das Fahrzeug für zwei Personen zugelassen ist."
+    },
+    {
+      "kategorie": "Probezeit",
+      "gruppe": "am",
+      "frage": "Gilt für die Klasse AM die zweijährige Probezeit?",
+      "antwort": "Ja",
+      "hinweis": "Fahrerlaubnis auf Probe",
+      "erklaerung": "Der Erwerb von AM startet die Probezeit."
+    },
+    {
+      "kategorie": "Alkohol",
+      "gruppe": "am",
+      "frage": "Alkoholgrenze für Fahranfänger mit Klasse AM",
+      "antwort": "0,0 Promille",
+      "hinweis": "Null Toleranz",
+      "erklaerung": "Absolutes Alkoholverbot in der Probezeit."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "fs-mofa",
+  "titel": "Mofa-Prüfbescheinigung",
+  "version": 2,
+  "karten": [
+    {
+      "kategorie": "Technische Daten",
+      "gruppe": "mofa",
+      "frage": "Zulässige Höchstgeschwindigkeit für Mofas",
+      "antwort": "25 km/h",
+      "hinweis": "Bauartbedingte Höchstgeschwindigkeit",
+      "erklaerung": "Mofas sind einsitzige zweirädrige Kleinkrafträder bis max. 25 km/h."
+    },
+    {
+      "kategorie": "Voraussetzungen",
+      "gruppe": "mofa",
+      "frage": "Mindestalter für den Erwerb der Mofa-Prüfbescheinigung",
+      "antwort": "15 Jahre",
+      "hinweis": "Theoretische und praktische Ausbildung",
+      "erklaerung": "Die Prüfbescheinigung kann ab dem 15. Lebensjahr erworben werden."
+    },
+    {
+      "kategorie": "Sicherheit",
+      "gruppe": "mofa",
+      "frage": "Ist das Tragen eines Helms beim Mofa-Fahren Pflicht?",
+      "antwort": "Ja",
+      "hinweis": "Geeigneter Schutzhelm",
+      "erklaerung": "Es besteht absolute Helmpflicht."
+    },
+    {
+      "kategorie": "Alkohol",
+      "gruppe": "mofa",
+      "frage": "Promillegrenze in der Probezeit und für Fahranfänger unter 21 Jahren",
+      "antwort": "0,0 Promille",
+      "hinweis": "Absolutes Alkoholverbot",
+      "erklaerung": "Für Fahranfänger gilt striktes Alkoholverbot am Steuer."
+    },
+    {
+      "kategorie": "Dokumente",
+      "gruppe": "mofa",
+      "frage": "Welches Dokument muss beim Mofa-Fahren stets mitgeführt werden?",
+      "antwort": "Prüfbescheinigung",
+      "hinweis": "Zusätzlich die Versicherungskarte",
+      "erklaerung": "Die Prüfbescheinigung gilt als Nachweis der Fahrerlaubnis für Mofas."
+    },
+    {
+      "kategorie": "Mitnahme",
+      "gruppe": "mofa",
+      "frage": "Dürfen auf einem Mofa andere Personen mitgenommen werden?",
+      "antwort": "Verboten",
+      "hinweis": "Ausnahme: zugelassener Kindersitz",
+      "erklaerung": "Mofas sind grundsätzlich einsitzig."
+    },
+    {
+      "kategorie": "Technik",
+      "gruppe": "mofa",
+      "frage": "Folge von illegalem Tuning am Mofa (über 25 km/h)",
+      "antwort": "Erlöschen der Betriebserlaubnis",
+      "hinweis": "Fahren ohne Fahrerlaubnis",
+      "erklaerung": "Unerlaubte Leistungssteigerung ist strafbar und führt zum Verlust des Versicherungsschutzes."
+    },
+    {
+      "kategorie": "Beleuchtung",
+      "gruppe": "mofa",
+      "frage": "Wann muss am Mofa das Licht eingeschaltet sein?",
+      "antwort": "Auch am Tag",
+      "hinweis": "Fahrlichtpflicht",
+      "erklaerung": "Einspurige Kraftfahrzeuge müssen auch tagsüber mit Abblendlicht fahren."
+    },
+    {
+      "kategorie": "Reifen",
+      "gruppe": "mofa",
+      "frage": "Mindestprofiltiefe der Reifen am Mofa",
+      "antwort": "1,0 mm",
+      "hinweis": "Gesetzliche Mindestgrenze",
+      "erklaerung": "Das Profil muss an allen Hauptprofilrillen mindestens 1,0 mm tief sein."
+    },
+    {
+      "kategorie": "Recht",
+      "gruppe": "mofa",
+      "frage": "Konsequenz bei Trunkenheitsfahrt mit dem Mofa",
+      "antwort": "Entzug der Prüfbescheinigung",
+      "hinweis": "Geld- oder Freiheitsstrafe",
+      "erklaerung": "Auch Mofafahrer unterliegen der Verkehrssicherheit und verlieren bei Drogen/Alkohol die Bescheinigung."
+    }
+  ]
+}

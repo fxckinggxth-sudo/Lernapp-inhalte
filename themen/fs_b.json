@@ -1,0 +1,103 @@
+{
+  "id": "fs-b",
+  "titel": "Autoführerschein B1 / B",
+  "version": 2,
+  "karten": [
+    {
+      "kategorie": "Zulässige Gesamtmasse",
+      "gruppe": "b",
+      "frage": "Zulässige Gesamtmasse für Fahrzeuge der Klasse B",
+      "antwort": "3,5 Tonnen",
+      "hinweis": "zGG in Tonnen",
+      "erklaerung": "Kraftfahrzeuge bis max. 3.500 kg zGG."
+    },
+    {
+      "kategorie": "Sitzplätze",
+      "gruppe": "b",
+      "frage": "Maximale Anzahl Sitzplätze außer dem Fahrersitz (Klasse B)",
+      "antwort": "8",
+      "hinweis": "Personenbeförderung",
+      "erklaerung": "Maximal 8 Fahrgastplätze plus Fahrersitz."
+    },
+    {
+      "kategorie": "Vorfahrt",
+      "gruppe": "b",
+      "frage": "Vorfahrtsregel an Kreuzungen ohne Schilder",
+      "antwort": "Rechts vor Links",
+      "hinweis": "Gesetzliche Grundregel",
+      "erklaerung": "Wer von rechts kommt, hat Vorfahrt."
+    },
+    {
+      "kategorie": "Geschwindigkeit",
+      "gruppe": "b",
+      "frage": "Empfohlene Richtgeschwindigkeit auf deutschen Autobahnen",
+      "antwort": "130 km/h",
+      "hinweis": "Für PKW",
+      "erklaerung": "Die Richtgeschwindigkeit gilt auf Autobahnen ohne Tempolimit."
+    },
+    {
+      "kategorie": "Abstand",
+      "gruppe": "b",
+      "frage": "Faustformel für den Sicherheitsabstand außerorts",
+      "antwort": "Halber Tacho",
+      "hinweis": "Abstand in Metern = halbe gefahrene km/h",
+      "erklaerung": "Beispiel bei 100 km/h: mind. 50 Meter Abstand."
+    },
+    {
+      "kategorie": "Alkohol",
+      "gruppe": "b",
+      "frage": "Promillegrenze für Fahranfänger in der Probezeit",
+      "antwort": "0,0 Promille",
+      "hinweis": "Null Toleranz",
+      "erklaerung": "Strenges Alkoholverbot für Fahranfänger."
+    },
+    {
+      "kategorie": "Reifen",
+      "gruppe": "b",
+      "frage": "Gesetzliche Mindestprofiltiefe für Autoreifen",
+      "antwort": "1,6 mm",
+      "hinweis": "An allen Hauptprofilrillen",
+      "erklaerung": "Unter 1,6 mm ist die Bereifung illegal und verkehrsunsicher."
+    },
+    {
+      "kategorie": "Ausstattung",
+      "gruppe": "b",
+      "frage": "Mitgeführte Notfallausstattung im PKW (3 Dinge)",
+      "antwort": "Verbandkasten, Warndreieck und Warnweste",
+      "hinweis": "Pflichtausrüstung",
+      "erklaerung": "Muss bei jeder Fahrt im Fahrzeug greifbar sein."
+    },
+    {
+      "kategorie": "Unfall",
+      "gruppe": "b",
+      "frage": "Erste Sofortmaßnahmen bei einem Verkehrsunfall mit Verletzten",
+      "antwort": "Absichern, Notruf und Erste Hilfe",
+      "hinweis": "Rettungskette einleiten",
+      "erklaerung": "Unfallstelle sichern, 112 rufen, Verletzte versorgen."
+    },
+    {
+      "kategorie": "Geschwindigkeit",
+      "gruppe": "b",
+      "frage": "Höchstgeschwindigkeit innerorts für PKW",
+      "antwort": "50 km/h",
+      "hinweis": "Geschlossene Ortschaften",
+      "erklaerung": "Sofern Verkehrsschilder nichts anderes vorschreiben."
+    },
+    {
+      "kategorie": "Kreisverkehr",
+      "gruppe": "b",
+      "frage": "Wer hat im Kreisverkehr Vorfahrt (bei Zeichen 215 / Kreisel mit Schildern)?",
+      "antwort": "Im Kreisverkehr befindliche Fahrzeuge",
+      "hinweis": "Vorfahrtzeichen an der Einfahrt beachten",
+      "erklaerung": "Die Fahrzeuge im Kreis haben Vorrang."
+    },
+    {
+      "kategorie": "Parken",
+      "gruppe": "b",
+      "frage": "Mindestabstand beim Parken vor und hinter Kreuzungen oder Einmündungen",
+      "antwort": "5 Meter",
+      "hinweis": "Sichtdreieck freihalten",
+      "erklaerung": "Darf nicht näher als 5 Meter am Schnittpunkt der Fahrbahnkanten geparkt werden."
+    }
+  ]
+}

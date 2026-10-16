@@ -1,0 +1,87 @@
+{
+  "id": "fs-d",
+  "titel": "Klasse D / DE (Bus)",
+  "version": 2,
+  "karten": [
+    {
+      "kategorie": "Zweck",
+      "gruppe": "d",
+      "frage": "Kraftfahrzeuge zur Personenbeförderung mit mehr als wie vielen Sitzplätzen?",
+      "antwort": "8 Fahrgäste",
+      "hinweis": "Plus Fahrersitz",
+      "erklaerung": "Busse der Klasse D befördern mehr als 8 Personen (neben dem Fahrer)."
+    },
+    {
+      "kategorie": "Voraussetzungen",
+      "gruppe": "d",
+      "frage": "Mindestalter für den Busführerschein (Klasse D) ohne Ausbildung",
+      "antwort": "24 Jahre",
+      "hinweis": "Für Kraftomnibusse",
+      "erklaerung": "Mindestalter liegt regulär bei 24 Jahren."
+    },
+    {
+      "kategorie": "Erlaubnis",
+      "gruppe": "d",
+      "frage": "Zusätzliches Dokument für die gewerbsmäßige Personenbeförderung",
+      "antwort": "Personenbeförderungsschein",
+      "hinweis": "Fahrerlaubnis zur Fahrgastbeförderung",
+      "erklaerung": "Erforderlich für gewerblichen Linien- oder Reiseverkehr."
+    },
+    {
+      "kategorie": "Maße",
+      "gruppe": "d",
+      "frage": "Maximale Länge eines Gelenkbusses",
+      "antwort": "18,75 Meter",
+      "hinweis": "Kraftomnibus",
+      "erklaerung": "Zulässige Maximallänge für Gelenkbusse."
+    },
+    {
+      "kategorie": "Vorschriften",
+      "gruppe": "d",
+      "frage": "Welche Sozialvorschriften müssen Busfahrer einhalten?",
+      "antwort": "EU-Sozialvorschriften",
+      "hinweis": "Lenk- und Ruhezeiten",
+      "erklaerung": "Strenge Einhaltung von Pausen und Lenkzeiten zur Unfallverhütung."
+    },
+    {
+      "kategorie": "Gesundheit",
+      "gruppe": "d",
+      "frage": "Ab welchem Alter sind regelmäßige ärztliche Untersuchungen für Busfahrer Pflicht?",
+      "antwort": "50 Jahre",
+      "hinweis": "Verlängerung der Fahrerlaubnis",
+      "erklaerung": "Nachweis der Eignung ab 50 Jahren im 5-Jahres-Rhythmus."
+    },
+    {
+      "kategorie": "Alkohol",
+      "gruppe": "d",
+      "frage": "Alkoholgrenze für Busfahrer im Dienst",
+      "antwort": "0,0 Promille",
+      "hinweis": "Null Toleranz",
+      "erklaerung": "Absolute Nüchternheit bei der Fahrgastbeförderung."
+    },
+    {
+      "kategorie": "Sicherheit",
+      "gruppe": "d",
+      "frage": "Was muss vor Fahrtantritt mit Fahrgästen beachtet werden?",
+      "antwort": "Sicherheitseinweisung",
+      "hinweis": "Hinweis auf Notausgänge und Gurte",
+      "erklaerung": "Fahrgäste müssen über Sicherheitseinrichtungen informiert werden."
+    },
+    {
+      "kategorie": "Stehplätze",
+      "gruppe": "d",
+      "frage": "Sind Stehplätze im Bus immer erlaubt?",
+      "antwort": "Nur wenn im Fahrzeugschein zugelassen",
+      "hinweis": "Typabhängig",
+      "erklaerung": "Stehplätze bedürfen einer amtlichen Zulassung des Busses."
+    },
+    {
+      "kategorie": "Kontrolle",
+      "gruppe": "d",
+      "frage": "Wie nennt man die technische Überprüfung des Busses vor der Abfahrt?",
+      "antwort": "Abfahrtskontrolle",
+      "hinweis": "Sicht- und Funktionsprüfung",
+      "erklaerung": "Fahrer prüft Reifen, Bremsen, Beleuchtung und Türen."
+    }
+  ]
+}

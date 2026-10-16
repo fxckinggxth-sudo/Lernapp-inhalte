@@ -1,0 +1,87 @@
+{
+  "id": "fs-a1",
+  "titel": "Klasse A1 (Leichtkrafträder)",
+  "version": 2,
+  "karten": [
+    {
+      "kategorie": "Technische Daten",
+      "gruppe": "a1",
+      "frage": "Maximaler Hubraum für Leichtkrafträder der Klasse A1",
+      "antwort": "125 ccm",
+      "hinweis": "Kubikzentimeter",
+      "erklaerung": "Klasse A1 erlaubt Hubraum bis 125 ccm."
+    },
+    {
+      "kategorie": "Technische Daten",
+      "gruppe": "a1",
+      "frage": "Maximale Nennleistung für Klasse A1",
+      "antwort": "11 kW",
+      "hinweis": "Kilowatt",
+      "erklaerung": "Die Leistung ist auf maximal 11 kW beschränkt."
+    },
+    {
+      "kategorie": "Leistungsverhältnis",
+      "gruppe": "a1",
+      "frage": "Maximales Verhältnis von Leistung zu Gewicht (Klasse A1)",
+      "antwort": "0,1 kW/kg",
+      "hinweis": "Kilowatt pro Kilogramm Leergewicht",
+      "erklaerung": "Schützt vor zu leichten, übermotorisierten Leichtkrafträdern."
+    },
+    {
+      "kategorie": "Voraussetzungen",
+      "gruppe": "a1",
+      "frage": "Mindestalter für die Fahrerlaubnisklasse A1",
+      "antwort": "16 Jahre",
+      "hinweis": "Theoretische und praktische Prüfung",
+      "erklaerung": "Ab 16 Jahren erwerbbar."
+    },
+    {
+      "kategorie": "Autobahn",
+      "gruppe": "a1",
+      "frage": "Darf man mit der Klasse A1 auf Autobahnen fahren?",
+      "antwort": "Ja",
+      "hinweis": "Da bauartbedingt schneller als 60 km/h",
+      "erklaerung": "Leichtkrafträder der Klasse A1 erreichen über 100 km/h und dürfen auf die Autobahn."
+    },
+    {
+      "kategorie": "Mitnahme",
+      "gruppe": "a1",
+      "frage": "Ist die Mitnahme von Beifahrern mit Klasse A1 gestattet?",
+      "antwort": "Ja",
+      "hinweis": "Bei entsprechender Zulassung",
+      "erklaerung": "Sofern das Fahrzeug zweisitzig ausgelegt ist."
+    },
+    {
+      "kategorie": "Schutzkleidung",
+      "gruppe": "a1",
+      "frage": "Welche Kleidung wird beim Motorradfahren dringend empfohlen bzw. vorgeschrieben?",
+      "antwort": "Geeignete Motorradschutzkleidung",
+      "hinweis": "Helm, Stiefel, Handschuhe, Protektoren",
+      "erklaerung": "Schützt bei Stürzen vor schweren Verletzungen."
+    },
+    {
+      "kategorie": "Untersuchung",
+      "gruppe": "a1",
+      "frage": "Hauptuntersuchung (HU) Intervall für Krafträder",
+      "antwort": "Alle 2 Jahre",
+      "hinweis": "TÜV-Prüfung",
+      "erklaerung": "Regelmäßige technische Überprüfung der Verkehrssicherheit."
+    },
+    {
+      "kategorie": "Alkohol",
+      "gruppe": "a1",
+      "frage": "Alkoholgrenze in der Probezeit für A1-Fahrer",
+      "antwort": "0,0 Promille",
+      "hinweis": "Null Toleranz",
+      "erklaerung": "Strenges Alkoholverbot für Fahranfänger."
+    },
+    {
+      "kategorie": "Erweiterung",
+      "gruppe": "a1",
+      "frage": "Welche Klasse schließt Klasse A1 automatisch mit ein?",
+      "antwort": "Klasse AM",
+      "hinweis": "Kleinkrafträder",
+      "erklaerung": "Klasse A1 beinhaltet die Berechtigung für AM."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "fs-t",
+  "titel": "Klasse L / T (Traktor)",
+  "version": 2,
+  "karten": [
+    {
+      "kategorie": "Geschwindigkeit",
+      "gruppe": "t",
+      "frage": "Höchstgeschwindigkeit für landwirtschaftliche Zugmaschinen der Klasse L",
+      "antwort": "40 km/h",
+      "hinweis": "Mit Anhänger max. 25 km/h",
+      "erklaerung": "Klasse L deckt kleinere Traktoren ab."
+    },
+    {
+      "kategorie": "Geschwindigkeit",
+      "gruppe": "t",
+      "frage": "Höchstgeschwindigkeit für Klasse T bis zum 18. Lebensjahr",
+      "antwort": "40 km/h",
+      "hinweis": "Ab 18 Jahren bis 60 km/h",
+      "erklaerung": "Klasse T ist für schnelle Traktoren in der Landwirtschaft."
+    },
+    {
+      "kategorie": "Zweck",
+      "gruppe": "t",
+      "frage": "Zweckbestimmung für Fahrzeuge der Klassen L und T",
+      "antwort": "Land- oder forstwirtschaftliche Zwecke",
+      "hinweis": "Agrar- und Forstbetrieb",
+      "erklaerung": "Dienen spezifisch land- und forstwirtschaftlichen Arbeitszwecken."
+    },
+    {
+      "kategorie": "Geschwindigkeit",
+      "gruppe": "t",
+      "frage": "Höchstgeschwindigkeit für Klasse T ab dem 18. Lebensjahr",
+      "antwort": "60 km/h",
+      "hinweis": "Mit bauartbedingter Höchstgeschwindigkeit",
+      "erklaerung": "Vollständige Nutzung schneller Traktoren ab 18 Jahren."
+    },
+    {
+      "kategorie": "Voraussetzungen",
+      "gruppe": "t",
+      "frage": "Mindestalter für den Erwerb der Klasse T",
+      "antwort": "16 Jahre",
+      "hinweis": "Landwirtschaftliche Fahrerlaubnis",
+      "erklaerung": "Bereits ab 16 Jahren für land- und forstwirtschaftliche Zwecke."
+    },
+    {
+      "kategorie": "Anhänger",
+      "gruppe": "t",
+      "frage": "Sind Anhänger im landwirtschaftlichen Betrieb mit Klasse T erlaubt?",
+      "antwort": "Ja",
+      "hinweis": "Auch schwere Anhänger",
+      "erklaerung": "Klasse T schließt den Betrieb von Anhängern in der Landwirtschaft ein."
+    },
+    {
+      "kategorie": "Prüfung",
+      "gruppe": "t",
+      "frage": "Wann müssen Traktoren mit bHöh > 40 km/h zur Hauptuntersuchung (HU)?",
+      "antwort": "Alle 2 Jahre",
+      "hinweis": "TÜV-Prüfung",
+      "erklaerung": "Schnelle Traktoren unterliegen der regulären HU-Pflicht."
+    },
+    {
+      "kategorie": "Kennzeichnung",
+      "gruppe": "t",
+      "frage": "Wie müssen überbreite landwirtschaftliche Fahrzeuge gekennzeichnet sein?",
+      "antwort": "Warntafeln und Begrenzungsleuchten",
+      "hinweis": "Sicherheit im Straßenverkehr",
+      "erklaerung": "Warnt andere Verkehrsteilnehmer vor Überbreite."
+    },
+    {
+      "kategorie": "Klassen",
+      "gruppe": "t",
+      "frage": "Welche kleinere Traktorenklasse ist in Klasse B bereits enthalten?",
+      "antwort": "Klasse L",
+      "hinweis": "Zugmaschinen bis 40 km/h",
+      "erklaerung": "Klasse B beinhaltet automatisch Klasse L."
+    },
+    {
+      "kategorie": "Personenbeförderung",
+      "gruppe": "t",
+      "frage": "Ist die Mitnahme von Personen auf landwirtschaftlichen Anhängern erlaubt?",
+      "antwort": "Grundsätzlich verboten",
+      "hinweis": "Ausnahme für Betriebspersonal",
+      "erklaerung": "Personenbeförderung auf Anhängern ist untersagt, außer zur Arbeit."
+    }
+  ]
+}
